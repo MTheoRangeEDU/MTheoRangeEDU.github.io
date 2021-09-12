@@ -2,6 +2,8 @@
 
 based on GitHub Pages woowoowoo
 
-### big chungus
+### sussy updates
 
-epic chungu
+Name | Date
+------------ | -------------
+[Theo Gets Snapchat](https://theorangeexists.me/updates/snapchat) | 1AM 9/12/2021
