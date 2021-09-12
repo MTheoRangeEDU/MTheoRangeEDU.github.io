@@ -10,8 +10,7 @@ Name | Date
 
 ### GOOD TIPS BY THEO
 
-1. SIGN UP FOR EDUCATION GITHUB SHIT
-- https://education.github.com/discount_requests/student_application
+1. [SIGN UP FOR EDUCATION GITHUB SHIT](https://education.github.com/discount_requests/student_application)
 - Get your GitHub student benefits HERE!!!! IT'S FREEEEEEEEE!!!! and you get normallyPAID BENEFITS for FREE!!!!
 2. exist
 - do it liberal. exist.
