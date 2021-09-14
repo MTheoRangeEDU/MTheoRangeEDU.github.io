@@ -15,7 +15,11 @@ Name | Date
 Name | Date
 ------------ | -------------
 [aaaaaaamongus](https://theorangeexists.me/experiments/sussy) | 10PM 9/13/2021
-[Pizza Hut](https://theorangeexists.me/experiments/geopizzahut) | 11AM 9/14/2021
+
+### Geographical Chronicles
+
+[Pizza Hut](https://theorangeexists.me/experiments/geochron/geopizzahut) | 11AM 9/14/2021
+[Culver's - WIP](https://theorangeexists.me/experiments/geochron/geoculvers) | N/A
 
 ### GOOD TIPS BY THEO
 
