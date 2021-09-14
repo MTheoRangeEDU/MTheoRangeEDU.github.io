@@ -1,4 +1,4 @@
-<small style="font-size:10px;">(THANK YOU [mattgraham](twitter.com/mattgraham) U DA BEST)</small>
+<small style="font-size:10px;">(THANK YOU [mattgraham](https://twitter.com/mattgraham) U DA BEST)</small>
 
 ## Theo Range's Epic Website
 
