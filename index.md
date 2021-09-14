@@ -34,8 +34,7 @@ Name | Date
   - YOAR OWN EPIC INTERWEBZ DOMAINS FOR 1 YEAR INCLUDING
     - .tech
     - .me
-    - .rocks, .ninja, .games, .codes, .systems, .studio, .email, .works, .software, .engineer and .live
-
+    - .rocks, .ninja, .games, .codes, .systems, .studio, .email, .works, .software, .engineer and .live\
   - THE NEED TO SCREAM AND CRY OUT LOUD
     - AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
