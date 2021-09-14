@@ -1,3 +1,5 @@
+<small style="font-size:8px;">(THANK YOU @mattgraham U DA BEST)</small>
+
 ## Theo Range's Epic Website
 
 based on GitHub Pages woowoowoo
@@ -27,55 +29,5 @@ Name | Date
 - do it liberal. exist.
 
 ### EPIC CODE BY THEO
-<table>
-<tr>
-<td> <b>Name</b> </td> <td> <b>Language</b> </td> <td> <b>Normal</b> </td> <td> <b>Minified</b> </td> 
-</tr>
-<tr>
-<td> For Loop </td>
-<td> JavaScript </td>
-<td>
 
-```js
-for (i = 0; i < [].length; i++) {
-  console.log(i);
-}
-```
-
-</td>
-<td>
-
-```js
-for(i=0;i<[].length;i++)console.log(i);
-```
-
-</td>
-</tr>
-<tr>
-<td> Express sendFile </td>
-<td> Node JavaScript (v12+) </td>
-<td>
-
-```js
-const express = require('express');
-const path = require('path');
-
-const app = express();
-
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, "files/index.html"))
-});
-
-app.listen(3000);
-```
-
-</td>
-<td>
-
-```js
-const express=require("express"),path=require("path"),app=express();app.get("/",(e,p)=>{p.sendFile(path.join(__dirname,"files/index.html"))}),app.listen(3e3);
-```
-
-</td>
-</tr>
-</table>
+coming soon i thibk
