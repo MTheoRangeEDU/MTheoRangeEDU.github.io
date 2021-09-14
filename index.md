@@ -18,6 +18,8 @@ Name | Date
 
 ### Geographical Chronicles
 
+Name | Date
+------------ | -------------
 [Pizza Hut](https://theorangeexists.me/experiments/geochron/geopizzahut) | 11AM 9/14/2021
 [Culver's - WIP](https://theorangeexists.me/experiments/geochron/geoculvers) | N/A
 
