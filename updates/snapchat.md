@@ -4,4 +4,4 @@
 ### the update
 i have snapchat
 
-don't fucking add me,
+don't add me,
