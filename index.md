@@ -10,6 +10,12 @@ Name | Date
 ------------ | -------------
 [Theo Gets Snapchat](https://theorangeexists.me/updates/snapchat) | 1AM 9/12/2021
 
+### EXPERIMENTS
+
+Name | Date
+------------ | -------------
+[aaaaaaamongus](https://theorangeexists.me/experiments/sussy) | 10PM 9/13/2021
+
 ### GOOD TIPS BY THEO
 
 1. [SIGN UP FOR EDUCATION GITHUB SHIT](https://education.github.com/discount_requests/student_application)
