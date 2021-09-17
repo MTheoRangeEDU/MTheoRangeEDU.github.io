@@ -9,6 +9,9 @@ Here's some shapes
     width: fit-content;
     display: inline-block;
   }
+  details[open] {
+    width: 200px;
+  }
   details[open] summary img {
     height: 0;
   }
