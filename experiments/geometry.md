@@ -4,6 +4,12 @@ This was a cool scavenger hunt
 
 Here's some shapes
 
+<style>
+  details[open] summary img {
+    height: 0;
+  }
+</style>
+
 <details>
   <summary>
     Trapezoid<br />
