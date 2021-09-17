@@ -5,6 +5,9 @@ This was a cool scavenger hunt
 Here's some shapes
 
 <style>
+  details {
+    width: fit-content;
+  }
   details[open] summary img {
     height: 0;
   }
