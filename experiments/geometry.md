@@ -6,13 +6,10 @@ Here's some shapes
 
 <style>
   details {
-    width: fit-content;
+    width: 300px;
     display: inline-block;
     vertical-align: top;
     height: 400px;
-  }
-  details[open] {
-    width: 200px;
   }
   details[open] summary img {
     height: 0;
