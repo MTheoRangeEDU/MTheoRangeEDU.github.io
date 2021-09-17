@@ -8,6 +8,8 @@ Here's some shapes
   details {
     width: fit-content;
     display: inline-block;
+    vertical-align: top;
+    height: 400px;
   }
   details[open] {
     width: 200px;
