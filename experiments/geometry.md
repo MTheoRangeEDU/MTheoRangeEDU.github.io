@@ -8,7 +8,7 @@ Here's some shapes
   details[open] summary img {
     height: 0;
   }
-  details[open] summary img::after {
+  details[open] summary::after {
     content: "[CLICK TO CLOSE]"
   }
 </style>
