@@ -7,6 +7,7 @@ Here's some shapes
 <style>
   details {
     width: fit-content;
+    display: inline-block;
   }
   details[open] summary img {
     height: 0;
